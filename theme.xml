@@ -75,7 +75,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<fontSize>0.025</fontSize>
  </text>
  
- <!--<text name="longdescription" extra="true">
+ <text name="longdescription" extra="true">
 	<fontPath>./_assets/Roboto-Medium.ttf</fontPath>
 	<alignment>center</alignment>
 	<forceUppercase>0</forceUppercase>
@@ -84,7 +84,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<origin>0.5 0.5</origin>
 	<pos>0.232 0.58</pos>
 	<size>0.20 0.1</size>
- </text>-->
+ </text>
  
 <!--
 
